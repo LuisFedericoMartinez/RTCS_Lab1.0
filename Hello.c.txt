@@ -5,5 +5,8 @@ int main()
         printf("Hola mundo");
 	printf("Segundo intento");
 	printf("Tercer intento");
+	printf("Dev. 2 Hola mundo");
+	printf("Dev. 2 Segundo intento");
+	printf("Dev. 2 Tercer intento");
         return 0;
 }
